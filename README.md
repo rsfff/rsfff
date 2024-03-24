@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rsfff
-- 👀 I’m interested in Google Cloud Platform, Azure AZ900, Python, Wordpress, Elementor, UIUX
-- 🌱 I’m currently learning Google Cloud Platform  04/3/24
+- 👀 I’m interested in Java, Amazon Web Services (AWS), CyberSecurity , Python, Wordpress, Elementor, UIUX
+- 🌱 I’m currently learning JAVA / Aws
 - 💞️ I’m looking to collaborate on my working projects and understand the better uses of IA (GPT/Sora/Gemini)  
 - 📫 How to reach me infonord.bite@gmail.com  
 - 😄 Pronouns: he
